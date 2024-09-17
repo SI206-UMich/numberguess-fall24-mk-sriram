@@ -15,6 +15,5 @@ class NumberGuess:
                 print("Too high")
             else:
                 print("You guessed the number!")
-                
 game = NumberGuess()
 game.play()
